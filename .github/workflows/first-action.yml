@@ -8,3 +8,7 @@ jobs:
         run: echo "Hello World"
       - name: Print goodbye
         run: echo "Done - bye!"
+      - name: Multiline scripts
+        run: |
+          echo "First Output"
+          echo "Second Output"
