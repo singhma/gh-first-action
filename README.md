@@ -1,2 +1,2 @@
 # gh-first-action
-Playing with Github Actions
+Understanding Github Actions
